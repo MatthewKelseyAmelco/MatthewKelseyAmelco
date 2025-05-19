@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthewKelseyAmelco
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything ML
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mkelsey@amelco.co.uk
 
 <!---
